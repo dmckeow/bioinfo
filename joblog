@@ -1,0 +1,17 @@
+SUBMISSION_TIME	SLURM_JOB_ID	SLURM_LOG	SLURM_ERR	COMMAND	NOTE
+2024-12-11 12:02:25	2431287	logs/slurm-nf.2431287.out	logs/slurm-nf.2431287.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 12:06:06	2431336	logs/slurm-nf.2431336.out	logs/slurm-nf.2431336.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 12:07:22	2431377	logs/slurm-nf.2431377.out	logs/slurm-nf.2431377.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 14:05:24	2432018	logs/slurm-nf.2432018.out	logs/slurm-nf.2432018.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 14:14:04	2432070	logs/slurm-nf.2432070.out	logs/slurm-nf.2432070.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 14:18:58	2432100	logs/slurm-nf.2432100.out	logs/slurm-nf.2432100.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 14:22:37	2432129	logs/slurm-nf.2432129.out	logs/slurm-nf.2432129.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 14:35:06	2432194	logs/slurm-nf.2432194.out	logs/slurm-nf.2432194.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 14:40:50	2432227	logs/slurm-nf.2432227.out	logs/slurm-nf.2432227.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 14:46:24	2432244	logs/slurm-nf.2432244.out	logs/slurm-nf.2432244.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 14:56:08	2432292	logs/slurm-nf.2432292.out	logs/slurm-nf.2432292.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 15:02:39	2432329	logs/slurm-nf.2432329.out	logs/slurm-nf.2432329.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 15:03:53	2432336	logs/slurm-nf.2432336.out	logs/slurm-nf.2432336.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 15:05:50	2432342	logs/slurm-nf.2432342.out	logs/slurm-nf.2432342.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 15:12:19	2432375	logs/slurm-nf.2432375.out	logs/slurm-nf.2432375.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	
+2024-12-11 15:24:06	2432440	logs/slurm-nf.2432440.out	logs/slurm-nf.2432440.err	sbatch submit_nf.sh main.nf -profile slurm -params-file params-MetazoansTest-part2-2.json	

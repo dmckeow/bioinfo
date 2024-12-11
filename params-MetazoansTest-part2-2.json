@@ -1,0 +1,9 @@
+{
+  "samplesheet": "samplesheet-part2-2.csv",
+  "outdir": "results/MetazoansTest-part2-2",
+  "runName": "MetazoansTest-part2-2",
+
+    "interproscan": {
+      "args": "--iprlookup"
+    }
+}
